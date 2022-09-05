@@ -1,0 +1,16 @@
+
+#footer{
+    font-size:1.0rem;
+    padding:20px 0;
+    text-align:center;
+}
+*{
+    margin:0;
+}
+*{
+    background-repeat: no-repeat;
+    box-sizing: inherit;
+}
+.footer{
+    display:block;
+}
